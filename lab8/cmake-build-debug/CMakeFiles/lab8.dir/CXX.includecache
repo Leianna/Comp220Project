@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/leianna/CLionProjects/lab8/ArrayLib.cpp
+ArrayLib.h
+/Users/leianna/CLionProjects/lab8/ArrayLib.h
+iostream
+-
+
+/Users/leianna/CLionProjects/lab8/ArrayLib.h
+string
+-
+
